@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kbc-quiz-app/static/css/main.b037c5a2.css",
+    "main.js": "/kbc-quiz-app/static/js/main.cc120a30.js",
+    "static/js/845.d405e7c8.chunk.js": "/kbc-quiz-app/static/js/845.d405e7c8.chunk.js",
+    "static/media/bg.jpg": "/kbc-quiz-app/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/kbc-quiz-app/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/kbc-quiz-app/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/kbc-quiz-app/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/kbc-quiz-app/index.html",
+    "main.b037c5a2.css.map": "/kbc-quiz-app/static/css/main.b037c5a2.css.map",
+    "main.cc120a30.js.map": "/kbc-quiz-app/static/js/main.cc120a30.js.map",
+    "845.d405e7c8.chunk.js.map": "/kbc-quiz-app/static/js/845.d405e7c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b037c5a2.css",
+    "static/js/main.cc120a30.js"
+  ]
+}
